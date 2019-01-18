@@ -1,0 +1,8 @@
+.Cart-Section {
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 150px; 
+    margin: 15px auto;
+}
